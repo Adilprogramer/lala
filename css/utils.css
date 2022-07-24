@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.flex{
+    display: flex;
+}
+:root{
+    --bg: #0d6efd;
+    --curlfont: 'Joan', serif;
+}
